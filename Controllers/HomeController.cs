@@ -26,5 +26,11 @@ namespace MvcMusicStore.Controllers
 
             return View();
         }
+
+        // Practice to add view
+        public ActionResult Edit()
+        {
+            return View();
+        }
     }
 }
